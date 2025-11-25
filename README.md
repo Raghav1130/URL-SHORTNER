@@ -9,7 +9,7 @@ Simple URL SHORTNER TOOL.
 Since this is a simple, single-file application with no external dependencies, setup is minimal.
 <br>
 1.  **Clone the repository (or download the file):**
-2.  <br>
+  <br>
 2.  **Ensure you have Python installed:**
 
 ## 🚀 How to Run the Application
